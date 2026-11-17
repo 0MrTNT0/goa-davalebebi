@@ -38,7 +38,7 @@
 
 #4
 # pay = float(input("enter your number: "))
-# if pay >= 100 and pay < 500:
+# if pay >= 100 and pay <= 500:
 #     print("You received a 10% discount!")
 # else:
 #     print("No discount available!")
